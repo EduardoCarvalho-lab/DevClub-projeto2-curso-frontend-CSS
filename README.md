@@ -1,1 +1,2 @@
-# DevClub-projeto2-curso-frontend-CSS
+# DevClub
+Easy-Shopping Project
